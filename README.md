@@ -21,7 +21,7 @@ Here are some of the examples for English->Hindi translation pair.
 >Actress Jennifer Lawrence is also expected to star as Holmes in a movie based on Bad Blood.  
 >Actress Jennifer Lawrence is also expected to star as Holmes in a cast based on Bad Blood.
 
-All the patholigcal invariants for English->Hindi translation pair can be found here.
+All the patholigcal invariants for English->Hindi translation pair can be found [here](https://github.com/shashijgupta/PathologicalInvarianceTesting/blob/master/Engtohi).
 
 Here are some of the examples for English->Chinese translation pair.
 
@@ -40,7 +40,7 @@ Here are some of the examples for English->Chinese translation pair.
 >They are doing something completely different.  
 >They are doing anything completely different.
 
-All the patholigcal invariants for English->Chinese translation pair can be found here.
+All the patholigcal invariants for English->Chinese translation pair can be found [here](https://github.com/shashijgupta/PathologicalInvarianceTesting/blob/master/Engtoch).
 
 Here are some of the examples for English->German translation pair.
 
@@ -59,5 +59,5 @@ Here are some of the examples for English->German translation pair.
 >They are doing something completely different.  
 >They are doing anything completely different.
 
-All the patholigcal invariants for English->German translation pair can be found here.
+All the patholigcal invariants for English->German translation pair can be found [here](https://github.com/shashijgupta/PathologicalInvarianceTesting/blob/master/Engtode).
 
