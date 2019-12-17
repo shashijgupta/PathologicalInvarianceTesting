@@ -6,8 +6,9 @@ PaInv can accurately find 332 pathological invariants in total. Each invariant c
 
 Here are some of the examples for English->Hindi translation pair.
 
-I had a story to tell and I wanted to finish it, Draper says.
-I had a story to tell and I wanted to finish it, Kane says.
+>I had a story to tell and I wanted to finish it, Draper says.
+
+>I had a story to tell and I wanted to finish it, Kane says.
 
 Nielsen said the most serious cyber threats are those aimed at the heart of democracy.
 Nielsen said the most serious cyber threats are those occurring at the heart of democracy.
